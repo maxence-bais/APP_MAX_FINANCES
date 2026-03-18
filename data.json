@@ -86,16 +86,6 @@
           "prixPart": 76.8394,
           "asset": "Actions BNP Paribas"
         },
-        {
-          "id": "xqhse0xw7",
-          "date": "2025-06-27",
-          "type": "versement",
-          "label": "Abondement Intéressement 2025",
-          "amount": 339.06,
-          "parts": 4,
-          "prixPart": 76.8394,
-          "asset": "Actions BNP Paribas"
-        }
       ],
       "positions": [],
       "history": [
