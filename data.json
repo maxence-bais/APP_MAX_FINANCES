@@ -607,16 +607,6 @@
       "deadline": "2026-12-31",
       "linkedId": null,
       "originalAmount": 20000
-    },
-    {
-      "id": "1rdp6yqpr",
-      "type": "budget",
-      "title": "Restaurants max 200€/mois",
-      "icon": "🥂",
-      "target": 200,
-      "deadline": null,
-      "linkedId": "Sorties",
-      "originalAmount": 200
     }
   ],
   "BUDGETS": []
