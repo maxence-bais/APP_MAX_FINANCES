@@ -70,7 +70,7 @@
       "label": "Pharmacie",
       "amount": 28,
       "type": "expense",
-      "cat": "SantÃ©"
+      "cat": "SantÃÂ©"
     },
     {
       "id": "y7pwjwd3a",
@@ -99,7 +99,7 @@
     {
       "id": "m6g3216gc",
       "date": "2026-03-15",
-      "label": "MarchÃ© bio",
+      "label": "MarchÃÂ© bio",
       "amount": 68,
       "type": "expense",
       "cat": "Alimentation"
@@ -279,7 +279,7 @@
       "name": "Appartement Paris 11e",
       "type": "Immobilier",
       "value": 320000,
-      "icon": "ð¡",
+      "icon": "Ã°ÂÂÂ¡",
       "history": [
         {
           "date": "2025-04-01",
@@ -306,9 +306,9 @@
     {
       "id": "ii32pzl20",
       "name": "Livret A",
-      "type": "Ãpargne",
+      "type": "ÃÂpargne",
       "value": 15000,
-      "icon": "ð°",
+      "icon": "Ã°ÂÂÂ°",
       "taux": 3,
       "history": [
         {
@@ -336,9 +336,9 @@
     {
       "id": "052ml4u8j",
       "name": "Assurance Vie",
-      "type": "Ãpargne",
+      "type": "ÃÂpargne",
       "value": 22000,
-      "icon": "ð¡ï¸",
+      "icon": "Ã°ÂÂÂ¡Ã¯Â¸Â",
       "taux": 2.8,
       "history": [
         {
@@ -365,10 +365,10 @@
     },
     {
       "id": "myrwqwg3x",
-      "name": "VÃ©hicule Renault",
-      "type": "VÃ©hicule",
+      "name": "VÃÂ©hicule Renault",
+      "type": "VÃÂ©hicule",
       "value": 11000,
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "history": [
         {
           "date": "2025-04-01",
@@ -396,14 +396,14 @@
   "LIABS": [
     {
       "id": "5k3azfu1d",
-      "name": "CrÃ©dit immo. BNP",
-      "type": "CrÃ©dit immobilier",
+      "name": "CrÃÂ©dit immo. BNP",
+      "type": "CrÃÂ©dit immobilier",
       "amount": 214000
     },
     {
       "id": "3ckg5hpx4",
-      "name": "CrÃ©dit conso Cetelem",
-      "type": "CrÃ©dit conso",
+      "name": "CrÃÂ©dit conso Cetelem",
+      "type": "CrÃÂ©dit conso",
       "amount": 4500
     }
   ],
@@ -546,8 +546,8 @@
     },
     {
       "id": "nh5r6pltt",
-      "type": "Ãpargne salariale",
-      "name": "Ãpargne salariale",
+      "type": "ÃÂpargne salariale",
+      "name": "ÃÂpargne salariale",
       "currentValue": 11400,
       "invested": 9800,
       "entries": [
@@ -555,7 +555,7 @@
           "id": "ilxl97m38",
           "date": "2025-03-01",
           "type": "versement",
-          "label": "IntÃ©ressement 2022",
+          "label": "IntÃÂ©ressement 2022",
           "amount": 3200
         },
         {
@@ -569,7 +569,7 @@
           "id": "3g5t6u5ar",
           "date": "2025-09-01",
           "type": "versement",
-          "label": "IntÃ©ressement 2023",
+          "label": "IntÃÂ©ressement 2023",
           "amount": 3500
         },
         {
@@ -601,8 +601,8 @@
     {
       "id": "1rdp6yqpr",
       "type": "budget",
-      "title": "Restaurants max 200â¬/mois",
-      "icon": "ð¥",
+      "title": "Restaurants max 200Ã¢ÂÂ¬/mois",
+      "icon": "Ã°ÂÂ¥Â",
       "target": 200,
       "deadline": null,
       "linkedId": "Sorties",
@@ -611,8 +611,8 @@
     {
       "id": "l9j50pl4k",
       "type": "patrimoine",
-      "title": "Patrimoine net 200kâ¬",
-      "icon": "ð",
+      "title": "Patrimoine net 200kÃ¢ÂÂ¬",
+      "icon": "Ã°ÂÂÂ",
       "target": 200000,
       "deadline": "2028-01-01",
       "linkedId": null,
