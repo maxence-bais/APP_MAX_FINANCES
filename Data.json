@@ -1,0 +1,632 @@
+{
+  "TXS": [
+    {
+      "id": "e0udk4fn1",
+      "date": "2026-03-01",
+      "label": "Salaire net",
+      "amount": 3200,
+      "type": "income",
+      "cat": "Salaire"
+    },
+    {
+      "id": "9fxqlinda",
+      "date": "2026-03-02",
+      "label": "Loyer",
+      "amount": 900,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "djqgzjese",
+      "date": "2026-03-02",
+      "label": "EDF / Gaz",
+      "amount": 75,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "oodrhe1sb",
+      "date": "2026-03-04",
+      "label": "Courses Monoprix",
+      "amount": 94,
+      "type": "expense",
+      "cat": "Alimentation"
+    },
+    {
+      "id": "5g97nlmd9",
+      "date": "2026-03-05",
+      "label": "Navigo mensuel",
+      "amount": 90,
+      "type": "expense",
+      "cat": "Transport"
+    },
+    {
+      "id": "o8bkxdg4z",
+      "date": "2026-03-06",
+      "label": "Netflix",
+      "amount": 18,
+      "type": "expense",
+      "cat": "Abonnements"
+    },
+    {
+      "id": "bi3igwhde",
+      "date": "2026-03-06",
+      "label": "Spotify",
+      "amount": 10,
+      "type": "expense",
+      "cat": "Abonnements"
+    },
+    {
+      "id": "ajinhuhpv",
+      "date": "2026-03-08",
+      "label": "Restaurant Pigalle",
+      "amount": 62,
+      "type": "expense",
+      "cat": "Sorties"
+    },
+    {
+      "id": "5q5v70289",
+      "date": "2026-03-10",
+      "label": "Pharmacie",
+      "amount": 28,
+      "type": "expense",
+      "cat": "Santé"
+    },
+    {
+      "id": "y7pwjwd3a",
+      "date": "2026-03-12",
+      "label": "Loyers SCPI Corum",
+      "amount": 187,
+      "type": "income",
+      "cat": "Loyers SCPI"
+    },
+    {
+      "id": "f51q8zyoi",
+      "date": "2026-03-12",
+      "label": "Dividendes PEA",
+      "amount": 145,
+      "type": "income",
+      "cat": "Dividendes PEA"
+    },
+    {
+      "id": "b11exiv7s",
+      "date": "2026-03-13",
+      "label": "Salle de sport",
+      "amount": 40,
+      "type": "expense",
+      "cat": "Loisirs"
+    },
+    {
+      "id": "m6g3216gc",
+      "date": "2026-03-15",
+      "label": "Marché bio",
+      "amount": 68,
+      "type": "expense",
+      "cat": "Alimentation"
+    },
+    {
+      "id": "pbcqtzv0h",
+      "date": "2026-03-15",
+      "label": "Virement Livret A",
+      "amount": 300,
+      "type": "savings",
+      "cat": "Livret A"
+    },
+    {
+      "id": "j7tez3124",
+      "date": "2026-02-01",
+      "label": "Salaire net",
+      "amount": 3200,
+      "type": "income",
+      "cat": "Salaire"
+    },
+    {
+      "id": "5gij9sjwx",
+      "date": "2026-02-02",
+      "label": "Loyer",
+      "amount": 900,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "f00obbnz9",
+      "date": "2026-02-02",
+      "label": "EDF",
+      "amount": 70,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "1ib08h850",
+      "date": "2026-02-05",
+      "label": "Courses",
+      "amount": 88,
+      "type": "expense",
+      "cat": "Alimentation"
+    },
+    {
+      "id": "a8p7kkpes",
+      "date": "2026-02-07",
+      "label": "Navigo",
+      "amount": 90,
+      "type": "expense",
+      "cat": "Transport"
+    },
+    {
+      "id": "v82m0e6ez",
+      "date": "2026-02-12",
+      "label": "Loyers SCPI Corum",
+      "amount": 187,
+      "type": "income",
+      "cat": "Loyers SCPI"
+    },
+    {
+      "id": "lbi5a7eyc",
+      "date": "2026-02-12",
+      "label": "Dividendes PEA",
+      "amount": 120,
+      "type": "income",
+      "cat": "Dividendes PEA"
+    },
+    {
+      "id": "4yyav3kd3",
+      "date": "2026-02-15",
+      "label": "Virement Livret A",
+      "amount": 300,
+      "type": "savings",
+      "cat": "Livret A"
+    },
+    {
+      "id": "wj565qc6b",
+      "date": "2026-01-01",
+      "label": "Salaire net",
+      "amount": 3200,
+      "type": "income",
+      "cat": "Salaire"
+    },
+    {
+      "id": "m84xgbbm9",
+      "date": "2026-01-02",
+      "label": "Loyer",
+      "amount": 900,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "k78c0a7it",
+      "date": "2026-01-05",
+      "label": "Courses",
+      "amount": 102,
+      "type": "expense",
+      "cat": "Alimentation"
+    },
+    {
+      "id": "wdab4ip8i",
+      "date": "2026-01-07",
+      "label": "Navigo",
+      "amount": 90,
+      "type": "expense",
+      "cat": "Transport"
+    },
+    {
+      "id": "7oag4vpel",
+      "date": "2026-01-12",
+      "label": "Loyers SCPI Corum",
+      "amount": 187,
+      "type": "income",
+      "cat": "Loyers SCPI"
+    },
+    {
+      "id": "pzixd6jh6",
+      "date": "2026-01-15",
+      "label": "Virement Livret A",
+      "amount": 300,
+      "type": "savings",
+      "cat": "Livret A"
+    },
+    {
+      "id": "aeq33kbtj",
+      "date": "2025-12-01",
+      "label": "Salaire net",
+      "amount": 3200,
+      "type": "income",
+      "cat": "Salaire"
+    },
+    {
+      "id": "bp03puyq8",
+      "date": "2025-12-02",
+      "label": "Loyer",
+      "amount": 900,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "gzdmy2czb",
+      "date": "2025-11-01",
+      "label": "Salaire net",
+      "amount": 3200,
+      "type": "income",
+      "cat": "Salaire"
+    },
+    {
+      "id": "pga8vt2m4",
+      "date": "2025-11-02",
+      "label": "Loyer",
+      "amount": 900,
+      "type": "expense",
+      "cat": "Logement"
+    },
+    {
+      "id": "0gfdz2kbv",
+      "date": "2025-10-01",
+      "label": "Salaire net",
+      "amount": 3200,
+      "type": "income",
+      "cat": "Salaire"
+    },
+    {
+      "id": "pr4umbcfu",
+      "date": "2025-10-02",
+      "label": "Loyer",
+      "amount": 900,
+      "type": "expense",
+      "cat": "Logement"
+    }
+  ],
+  "ASSETS": [
+    {
+      "id": "cjylfgswb",
+      "name": "Appartement Paris 11e",
+      "type": "Immobilier",
+      "value": 320000,
+      "icon": "🏡",
+      "history": [
+        {
+          "date": "2025-04-01",
+          "value": 295000
+        },
+        {
+          "date": "2025-07-01",
+          "value": 305000
+        },
+        {
+          "date": "2025-10-01",
+          "value": 312000
+        },
+        {
+          "date": "2026-01-01",
+          "value": 318000
+        },
+        {
+          "date": "2026-03-01",
+          "value": 320000
+        }
+      ]
+    },
+    {
+      "id": "ii32pzl20",
+      "name": "Livret A",
+      "type": "Épargne",
+      "value": 15000,
+      "icon": "💰",
+      "taux": 3,
+      "history": [
+        {
+          "date": "2025-04-01",
+          "value": 12500
+        },
+        {
+          "date": "2025-07-01",
+          "value": 13200
+        },
+        {
+          "date": "2025-10-01",
+          "value": 13900
+        },
+        {
+          "date": "2026-01-01",
+          "value": 14600
+        },
+        {
+          "date": "2026-03-01",
+          "value": 15000
+        }
+      ]
+    },
+    {
+      "id": "052ml4u8j",
+      "name": "Assurance Vie",
+      "type": "Épargne",
+      "value": 22000,
+      "icon": "🛡️",
+      "taux": 2.8,
+      "history": [
+        {
+          "date": "2025-04-01",
+          "value": 18000
+        },
+        {
+          "date": "2025-07-01",
+          "value": 19200
+        },
+        {
+          "date": "2025-10-01",
+          "value": 20100
+        },
+        {
+          "date": "2026-01-01",
+          "value": 21200
+        },
+        {
+          "date": "2026-03-01",
+          "value": 22000
+        }
+      ]
+    },
+    {
+      "id": "myrwqwg3x",
+      "name": "Véhicule Renault",
+      "type": "Véhicule",
+      "value": 11000,
+      "icon": "🚗",
+      "history": [
+        {
+          "date": "2025-04-01",
+          "value": 14000
+        },
+        {
+          "date": "2025-07-01",
+          "value": 13200
+        },
+        {
+          "date": "2025-10-01",
+          "value": 12400
+        },
+        {
+          "date": "2026-01-01",
+          "value": 11600
+        },
+        {
+          "date": "2026-03-01",
+          "value": 11000
+        }
+      ]
+    }
+  ],
+  "LIABS": [
+    {
+      "id": "5k3azfu1d",
+      "name": "Crédit immo. BNP",
+      "type": "Crédit immobilier",
+      "amount": 214000
+    },
+    {
+      "id": "3ckg5hpx4",
+      "name": "Crédit conso Cetelem",
+      "type": "Crédit conso",
+      "amount": 4500
+    }
+  ],
+  "POCHES": [
+    {
+      "id": "ddz2sw92e",
+      "type": "SCPI",
+      "name": "SCPI Corum Origin",
+      "currentValue": 24800,
+      "invested": 22000,
+      "taux": 6.02,
+      "parts": 22,
+      "prixPart": 1000,
+      "entries": [
+        {
+          "id": "o0t93isbq",
+          "date": "2025-10-01",
+          "type": "versement",
+          "label": "Acquisition 10 parts",
+          "amount": 10000
+        },
+        {
+          "id": "7e31w7nue",
+          "date": "2025-12-01",
+          "type": "versement",
+          "label": "Acquisition 12 parts",
+          "amount": 12000
+        },
+        {
+          "id": "0wmttk5xl",
+          "date": "2026-01-12",
+          "type": "dividende",
+          "label": "Loyers T3",
+          "amount": 187
+        },
+        {
+          "id": "pz7yy480y",
+          "date": "2026-02-12",
+          "type": "dividende",
+          "label": "Loyers T4",
+          "amount": 187
+        },
+        {
+          "id": "0u7ki73fq",
+          "date": "2026-03-12",
+          "type": "dividende",
+          "label": "Loyers T1",
+          "amount": 187
+        }
+      ],
+      "positions": [],
+      "history": [
+        {
+          "date": "2025-10-01",
+          "value": 10000
+        },
+        {
+          "date": "2025-12-01",
+          "value": 22000
+        },
+        {
+          "date": "2026-03-01",
+          "value": 24800
+        }
+      ]
+    },
+    {
+      "id": "rm8o05ys2",
+      "type": "PEA",
+      "name": "PEA Boursorama",
+      "currentValue": 28500,
+      "invested": 22000,
+      "entries": [
+        {
+          "id": "cbwbrx8qe",
+          "date": "2025-05-01",
+          "type": "versement",
+          "label": "Ouverture PEA",
+          "amount": 5000
+        },
+        {
+          "id": "qgg79dvo0",
+          "date": "2025-07-01",
+          "type": "versement",
+          "label": "Versement ETF World",
+          "amount": 8000
+        },
+        {
+          "id": "lkl1n8mnd",
+          "date": "2025-10-01",
+          "type": "versement",
+          "label": "Versement ETF S&P500",
+          "amount": 5000
+        },
+        {
+          "id": "x6k5vtj20",
+          "date": "2025-12-01",
+          "type": "versement",
+          "label": "Versement ETF MSCI EM",
+          "amount": 4000
+        },
+        {
+          "id": "j5onxewxo",
+          "date": "2026-02-12",
+          "type": "dividende",
+          "label": "Dividendes ETF",
+          "amount": 145
+        },
+        {
+          "id": "uhw9klpwq",
+          "date": "2026-03-12",
+          "type": "dividende",
+          "label": "Dividendes ETF",
+          "amount": 145
+        }
+      ],
+      "positions": [],
+      "history": [
+        {
+          "date": "2025-05-01",
+          "value": 5000
+        },
+        {
+          "date": "2025-07-01",
+          "value": 13000
+        },
+        {
+          "date": "2025-10-01",
+          "value": 18000
+        },
+        {
+          "date": "2025-12-01",
+          "value": 22000
+        },
+        {
+          "date": "2026-03-01",
+          "value": 28500
+        }
+      ]
+    },
+    {
+      "id": "nh5r6pltt",
+      "type": "Épargne salariale",
+      "name": "Épargne salariale",
+      "currentValue": 11400,
+      "invested": 9800,
+      "entries": [
+        {
+          "id": "ilxl97m38",
+          "date": "2025-03-01",
+          "type": "versement",
+          "label": "Intéressement 2022",
+          "amount": 3200
+        },
+        {
+          "id": "vyhb8pqbn",
+          "date": "2025-06-06",
+          "type": "versement",
+          "label": "Abondement employeur",
+          "amount": 1600
+        },
+        {
+          "id": "3g5t6u5ar",
+          "date": "2025-09-01",
+          "type": "versement",
+          "label": "Intéressement 2023",
+          "amount": 3500
+        },
+        {
+          "id": "6vtv7v0oz",
+          "date": "2025-12-06",
+          "type": "versement",
+          "label": "Abondement employeur",
+          "amount": 1500
+        }
+      ],
+      "positions": [],
+      "history": [
+        {
+          "date": "2025-03-01",
+          "value": 3200
+        },
+        {
+          "date": "2025-09-01",
+          "value": 8300
+        },
+        {
+          "date": "2026-03-01",
+          "value": 11400
+        }
+      ]
+    }
+  ],
+  "GOALS": [
+    {
+      "id": "i8gjaq4x0",
+      "type": "savings",
+      "title": "Livret A 20k€",
+      "icon": "💰",
+      "target": 20000,
+      "deadline": "2026-12-31",
+      "linkedId": null,
+      "originalAmount": 20000
+    },
+    {
+      "id": "1rdp6yqpr",
+      "type": "budget",
+      "title": "Restaurants max 200€/mois",
+      "icon": "🥂",
+      "target": 200,
+      "deadline": null,
+      "linkedId": "Sorties",
+      "originalAmount": 200
+    },
+    {
+      "id": "l9j50pl4k",
+      "type": "patrimoine",
+      "title": "Patrimoine net 200k€",
+      "icon": "🏆",
+      "target": 200000,
+      "deadline": "2028-01-01",
+      "linkedId": null,
+      "originalAmount": 200000
+    }
+  ]
+}
