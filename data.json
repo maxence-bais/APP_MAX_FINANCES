@@ -66,7 +66,20 @@
     }
   ],
   "LIABS": [],
-  "POCHES": [],
+  "POCHES": [
+    {
+      "id": "z032bmzme",
+      "type": "Épargne salariale",
+      "name": "Plan Epargne Entreprise",
+      "broker": "BNP Paribas",
+      "icon": "🏢",
+      "currentValue": 0,
+      "invested": 0,
+      "entries": [],
+      "positions": [],
+      "history": []
+    }
+  ],
   "GOALS": [],
   "BUDGETS": []
 }
