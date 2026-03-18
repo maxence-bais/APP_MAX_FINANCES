@@ -116,7 +116,7 @@
       "name": "Actions Finary",
       "broker": "",
       "icon": "🏗️",
-      "currentValue": 1000,
+      "currentValue": 1686.32,
       "invested": 1000,
       "entries": [],
       "positions": [],
@@ -128,6 +128,11 @@
         {
           "date": "2025-10-13",
           "value": 1686.32
+        },
+        {
+          "date": "2025-10-13",
+          "value": 1686.32,
+          "note": "Serie B"
         }
       ],
       "value": 1686.32
