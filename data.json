@@ -73,11 +73,30 @@
       "name": "PEE",
       "broker": "BNP Paribas",
       "icon": "🏢",
-      "currentValue": 0,
-      "invested": 0,
-      "entries": [],
+      "currentValue": 1115.68,
+      "invested": 1115.68,
+      "entries": [
+        {
+          "id": "w3ip9he2v",
+          "date": "2025-06-27",
+          "type": "versement",
+          "label": "Intéressement 2025",
+          "amount": 1115.68,
+          "parts": 14,
+          "prixPart": 76.8394,
+          "asset": "Action BNP Paribas"
+        }
+      ],
       "positions": [],
-      "history": []
+      "history": [
+        {
+          "date": "2025-06-27",
+          "value": 1115.68,
+          "note": "versement"
+        }
+      ],
+      "parts": 14,
+      "prixPart": 76.8394
     }
   ],
   "GOALS": [],
