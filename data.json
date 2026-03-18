@@ -597,17 +597,6 @@
       ]
     }
   ],
-  "GOALS": [
-    {
-      "id": "i8gjaq4x0",
-      "type": "savings",
-      "title": "Livret A 20k€",
-      "icon": "💰",
-      "target": 20000,
-      "deadline": "2026-12-31",
-      "linkedId": null,
-      "originalAmount": 20000
-    }
-  ],
+  "GOALS": [],
   "BUDGETS": []
 }
