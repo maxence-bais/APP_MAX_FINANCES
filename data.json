@@ -49,7 +49,22 @@
       "cat": "Logement"
     }
   ],
-  "ASSETS": [],
+  "ASSETS": [
+    {
+      "id": "rop2x95hc",
+      "name": "Livret A",
+      "type": "Épargne",
+      "value": 3550,
+      "icon": "💰",
+      "taux": 1.5,
+      "history": [
+        {
+          "date": "2026-03-18",
+          "value": 3550
+        }
+      ]
+    }
+  ],
   "LIABS": [],
   "POCHES": [],
   "GOALS": [],
