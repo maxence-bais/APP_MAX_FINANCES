@@ -109,6 +109,23 @@
       ],
       "parts": 14,
       "prixPart": 76.8394
+    },
+    {
+      "id": "rv8nxa7jp",
+      "type": "Autre",
+      "name": "Actions Finary",
+      "broker": "",
+      "icon": "🏗️",
+      "currentValue": 1686.32,
+      "invested": 1000,
+      "entries": [],
+      "positions": [],
+      "history": [
+        {
+          "date": "2026-03-18",
+          "value": 1686.32
+        }
+      ]
     }
   ],
   "GOALS": [],
