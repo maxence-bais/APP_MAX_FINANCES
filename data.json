@@ -617,16 +617,7 @@
       "deadline": null,
       "linkedId": "Sorties",
       "originalAmount": 200
-    },
-    {
-      "id": "l9j50pl4k",
-      "type": "patrimoine",
-      "title": "Patrimoine net 200k€",
-      "icon": "🏆",
-      "target": 200000,
-      "deadline": "2028-01-01",
-      "linkedId": null,
-      "originalAmount": 200000
     }
-  ]
+  ],
+  "BUDGETS": []
 }
