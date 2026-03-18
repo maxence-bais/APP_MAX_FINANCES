@@ -73,8 +73,8 @@
       "name": "Plan Epargne Entreprise",
       "broker": "BNP Paribas",
       "icon": "🏢",
-      "currentValue": 1115.68,
-      "invested": 1115.68,
+      "currentValue": 1454.74,
+      "invested": 1454.74,
       "entries": [
         {
           "id": "37d19sf3g",
@@ -85,6 +85,16 @@
           "parts": 14,
           "prixPart": 76.8394,
           "asset": "Actions BNP Paribas"
+        },
+        {
+          "id": "xqhse0xw7",
+          "date": "2025-06-27",
+          "type": "versement",
+          "label": "Abondement Intéressement 2025",
+          "amount": 339.06,
+          "parts": 4,
+          "prixPart": 76.8394,
+          "asset": "Actions BNP Paribas"
         }
       ],
       "positions": [],
@@ -93,9 +103,14 @@
           "date": "2025-06-27",
           "value": 1115.68,
           "note": "versement"
+        },
+        {
+          "date": "2025-06-27",
+          "value": 1454.74,
+          "note": "versement"
         }
       ],
-      "parts": 14,
+      "parts": 18,
       "prixPart": 76.8394
     }
   ],
