@@ -66,44 +66,7 @@
     }
   ],
   "LIABS": [],
-  "POCHES": [
-    {
-      "id": "z032bmzme",
-      "type": "Épargne salariale",
-      "name": "Plan Epargne Entreprise",
-      "broker": "BNP Paribas",
-      "icon": "🏢",
-      "currentValue": 1454.74,
-      "invested": 1454.74,
-      "entries": [
-        {
-          "id": "37d19sf3g",
-          "date": "2025-06-27",
-          "type": "versement",
-          "label": "Intéressement 2025",
-          "amount": 1115.68,
-          "parts": 14,
-          "prixPart": 76.8394,
-          "asset": "Actions BNP Paribas"
-        },
-      ],
-      "positions": [],
-      "history": [
-        {
-          "date": "2025-06-27",
-          "value": 1115.68,
-          "note": "versement"
-        },
-        {
-          "date": "2025-06-27",
-          "value": 1454.74,
-          "note": "versement"
-        }
-      ],
-      "parts": 18,
-      "prixPart": 76.8394
-    }
-  ],
+  "POCHES": [],
   "GOALS": [],
   "BUDGETS": []
 }
