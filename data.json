@@ -73,7 +73,7 @@
       "name": "PEE",
       "broker": "BNP Paribas",
       "icon": "🏢",
-      "currentValue": 1115.68,
+      "currentValue": 1454.74,
       "invested": 1115.68,
       "entries": [
         {
@@ -85,6 +85,13 @@
           "parts": 14,
           "prixPart": 76.8394,
           "asset": "Action BNP Paribas"
+        },
+        {
+          "id": "t973rp1sx",
+          "date": "2025-06-27",
+          "type": "abondement",
+          "label": "Intéressement 2025",
+          "amount": 339.06
         }
       ],
       "positions": [],
@@ -93,6 +100,11 @@
           "date": "2025-06-27",
           "value": 1115.68,
           "note": "versement"
+        },
+        {
+          "date": "2025-06-27",
+          "value": 1454.74,
+          "note": "abondement"
         }
       ],
       "parts": 14,
