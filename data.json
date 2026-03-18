@@ -597,27 +597,6 @@
       ]
     }
   ],
-  "GOALS": [
-    {
-      "id": "1rdp6yqpr",
-      "type": "budget",
-      "title": "Restaurants max 200Ã¢ÂÂ¬/mois",
-      "icon": "Ã°ÂÂ¥Â",
-      "target": 200,
-      "deadline": null,
-      "linkedId": "Sorties",
-      "originalAmount": 200
-    },
-    {
-      "id": "l9j50pl4k",
-      "type": "patrimoine",
-      "title": "Patrimoine net 200kÃ¢ÂÂ¬",
-      "icon": "Ã°ÂÂÂ",
-      "target": 200000,
-      "deadline": "2028-01-01",
-      "linkedId": null,
-      "originalAmount": 200000
-    }
-  ],
+  "GOALS": [],
   "BUDGETS": []
 }
