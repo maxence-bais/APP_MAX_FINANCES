@@ -74,12 +74,24 @@
       "broker": "BNP Paribas",
       "icon": "🏢",
       "currentValue": 5201.92,
-      "invested": 0,
-      "entries": [],
+      "invested": 1115.68,
+      "entries": [
+        {
+          "id": "07j30bcza",
+          "date": "2025-06-27",
+          "type": "versement",
+          "label": "Interessement 2025",
+          "amount": 1115.68
+        }
+      ],
       "positions": [],
       "history": [
         {
           "date": "2026-03-18",
+          "value": 5201.92
+        },
+        {
+          "date": "2025-06-27",
           "value": 5201.92
         }
       ]
