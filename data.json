@@ -56,6 +56,15 @@
       "cat": "Salaire",
       "date": "2026-03-30",
       "icon": "💳"
+    },
+    {
+      "id": "0ot63huz0",
+      "label": "McDo Serris",
+      "amount": 12.5,
+      "type": "expense",
+      "cat": "Sorties",
+      "date": "2026-03-02",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
