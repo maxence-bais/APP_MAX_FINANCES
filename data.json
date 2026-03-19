@@ -65,6 +65,15 @@
       "cat": "Sorties",
       "date": "2026-03-02",
       "icon": "💳"
+    },
+    {
+      "id": "0yahfmlqh",
+      "label": "EDF",
+      "amount": 31,
+      "type": "expense",
+      "cat": "Abonnements",
+      "date": "2026-03-18",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
