@@ -101,6 +101,15 @@
       "cat": "Sorties",
       "date": "2026-03-17",
       "icon": "💳"
+    },
+    {
+      "id": "a1a8ty5e2",
+      "label": "Cravate Bleue H&M",
+      "amount": 13.98,
+      "type": "expense",
+      "cat": "Shopping",
+      "date": "2026-03-17",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
