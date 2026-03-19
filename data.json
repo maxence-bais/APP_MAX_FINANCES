@@ -47,6 +47,15 @@
       "amount": 900,
       "type": "expense",
       "cat": "Logement"
+    },
+    {
+      "id": "eocbingvf",
+      "label": "Salaire BNP Paribas",
+      "amount": 1901,
+      "type": "income",
+      "cat": "Salaire",
+      "date": "2026-03-30",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
