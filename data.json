@@ -92,6 +92,15 @@
       "cat": "Sorties",
       "date": "2026-03-17",
       "icon": "💳"
+    },
+    {
+      "id": "a4acv2izl",
+      "label": "McDo",
+      "amount": 12.5,
+      "type": "expense",
+      "cat": "Sorties",
+      "date": "2026-03-17",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
