@@ -74,6 +74,15 @@
       "cat": "Abonnements",
       "date": "2026-03-18",
       "icon": "💳"
+    },
+    {
+      "id": "5u57jbla7",
+      "label": "Courses",
+      "amount": 10,
+      "type": "expense",
+      "cat": "Alimentation",
+      "date": "2026-03-18",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
