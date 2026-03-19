@@ -101,6 +101,15 @@
       "cat": "Shopping",
       "date": "2026-03-17",
       "icon": "💳"
+    },
+    {
+      "id": "vlcm2rcu1",
+      "label": "Lidl",
+      "amount": 2.57,
+      "type": "expense",
+      "cat": "Alimentation",
+      "date": "2026-03-16",
+      "icon": "💳"
     }
   ],
   "ASSETS": [
