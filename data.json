@@ -117,13 +117,18 @@
       "id": "vc84rn4vi",
       "name": "Livret A",
       "type": "Épargne",
-      "value": 3550,
+      "value": 4550,
       "icon": "🏦",
       "taux": 1.5,
       "history": [
         {
           "date": "2026-03-18",
           "value": 3550
+        },
+        {
+          "date": "2026-04-01",
+          "value": 4550,
+          "note": "Versement pour investissement SCPI"
         }
       ]
     }
